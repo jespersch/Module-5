@@ -1,0 +1,10 @@
+th{
+    text-align:center;
+    position:relative;
+    border: .1vh solid black;
+    background-color:rgb(253, 194, 138);
+}
+.card{
+    background-color:gray;
+
+}
